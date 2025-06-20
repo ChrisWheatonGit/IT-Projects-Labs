@@ -52,13 +52,3 @@ These labs simulate:
 - The same procedures followed by real IT departments in business environments  
 - Interview-ready stories of how you've solved practical issues with hands-on skill
 
-
-## 📁 How to Navigate This Repo
-
-Each lab is in a folder with:
-- ✅ **Problem scenario**  
-- 🔧 **Tools/Tech used**  
-- 🧪 **Step-by-step solution**  
-- 🧠 **Workplace alignment**  
-- 📚 **References/visuals if needed**
-
