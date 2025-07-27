@@ -5,50 +5,33 @@ This repository contains IT projects designed to simulate real-world workplace t
 
 ## 📘 Project Categories
 
-### 🖧 Network Configuration
-Real issues involving DNS, static IPs, NAT, DHCP, and routing.
+🛠️ Multi-Boot System with Windows and Linux
+Showcases: Disk partitioning, dual-boot setup, recovery tools
 
-- Resolve internal DNS failures by configuring static IPs and DNS forwarders.
-- Fix external connectivity issues using NAT rules and port forwarding.
+🌐 Secure Home Network Lab
+Showcases: DHCP, DNS, NAT, router config, QoS
 
-### 🧰 System Administration
-User management, GPOs, and permission configurations for enterprise IT.
+🔐 Malware Remediation & Security Hardening
+Showcases: Threat detection, registry repair, safe mode ops
 
-- Misconfigured permissions causing file share exposure.
-- Enforce USB device restriction policy across a domain.
+🧰 Help Desk Simulation w/ Ticketing Workflow
+Showcases: User support, issue documentation, escalation
 
-### 🛠 Automation Scripting
-Solving inefficiencies through scripting with PowerShell and Bash.
+📡 Wi-Fi Heatmap and Optimization Project
+Showcases: Wireless analysis, channel mapping, AP tuning
 
-- Automate user account creation with group and password settings.
-- Automate rotating and archiving Linux server logs.
+📦 Virtual IT Lab with Proxmox/VirtualBox
+Showcases: Virtualization, system snapshots, isolated environments
 
-### 📦 Virtualization & Infrastructure
-Simulated small enterprise environments.
+🔌 Printer and Peripheral Troubleshooting Lab
+Showcases: Driver configs, spooler service, USB/Bluetooth
 
-- Deploy VMs using ESXi and vSphere with internal networking.
-- Set up network segmentation and VLANs with pfSense.
+🧮 Automated Backup and Restore System
+Showcases: Data recovery, backup planning, scripting
 
-### 🔒 Endpoint & Patch Management
-Defensive IT tasks focused on real environments.
-
-- Harden endpoints using Intune security baseline.
-- Create and verify patch schedules using Chocolatey.
-
-
-## 🔧 Tools Used Across Projects
-
-- **OS & Platform**: Windows Server, Ubuntu, pfSense, Kali, VMware/VirtualBox  
-- **Scripting**: PowerShell, Bash, Python  
-- **Security Tools**: Sysmon, Windows Defender, Event Viewer  
-- **Networking**: Wireshark, Netstat, Nmap, DHCP/DNS Services  
-- **Automation**: Chocolatey, Cron, Task Scheduler
-
-
-## 🎯 Why This Matters
-
-These labs simulate:
-- Tasks a Tier 1/2 Support Specialist or System Administrator would face  
-- The same procedures followed by real IT departments in business environments  
-- Interview-ready stories of how you've solved practical issues with hands-on skill
-
+🔧 Tools Used Across Projects
+OS & Platform: Windows Server, Ubuntu, pfSense, Kali, VMware/VirtualBox
+Scripting: PowerShell, Bash, Python
+Security Tools: Sysmon, Windows Defender, Event Viewer
+Networking: Wireshark, Netstat, Nmap, DHCP/DNS Services
+Automation: Chocolatey, Cron, Task Scheduler
